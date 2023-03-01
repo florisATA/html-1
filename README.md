@@ -1,4 +1,4 @@
-# Dit is een readme voor html 1
+# Dit de readme voor html 1
 
 De link naar de index.html 
 
