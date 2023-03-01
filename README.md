@@ -3,3 +3,5 @@
 De link naar de index.html 
 
 [a link](https://github.com/florisATA/html-1/blob/main/index.html)
+
+![Screenshot](screenshot.png)
