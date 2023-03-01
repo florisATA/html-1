@@ -1,0 +1,32 @@
+body {
+    background-color: lightblue;
+}
+h3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    color: darkblue;
+}
+input[type=button] {
+    background-image: linear-gradient(darkblue, green);
+    color: white;
+    border-radius: 20px;
+    border: 1px solid red;
+    padding: 20px;
+    box-shadow: 5px 5px 5px grey;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+input[type=button]:hover {
+    box-shadow: 0px 0px 0px grey;
+    background-image: linear-gradient(green, darkblue);
+    transition-duration: 100ms;
+}
+input[type=text] {
+    width: 100px;
+    padding: 12px 20px;
+    margin-left: 5px;
+    box-sizing: border-box;
+    border: 3px dotted darkblue;
+    border-radius: 10px;
+}
