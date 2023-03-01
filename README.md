@@ -2,6 +2,6 @@
 
 De link naar de index.html 
 
-[De website](https://github.com/florisATA/html-1/index.html)
+[De website](https://florisata.github.io/html-1/)
 
 ![Screenshot](screenshot.png)
